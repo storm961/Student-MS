@@ -22,7 +22,6 @@ def calculate_gpa(student_id):
         print("No grades found for this student.")
         return
 
-    # Grade-to-GPA mapping
     grade_to_gpa = {
         'A': 4.0,
         'B': 3.0,
