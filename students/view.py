@@ -1,3 +1,4 @@
+# View a student
 import mysql.connector
 
 connection = mysql.connector.connect(
