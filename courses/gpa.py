@@ -1,3 +1,4 @@
+# Update GPA for the student
 import mysql.connector
 
 connection = mysql.connector.connect(

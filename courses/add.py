@@ -1,3 +1,4 @@
+# Add a course
 import mysql.connector
 
 connection = mysql.connector.connect(

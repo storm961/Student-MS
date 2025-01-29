@@ -1,6 +1,6 @@
+# View grades for the courses
 import mysql.connector
 
-# Database connection
 connection = mysql.connector.connect(
     host="localhost",
     user="root",

@@ -1,3 +1,4 @@
+# Add grade for the course
 import mysql.connector
 
 connection = mysql.connector.connect(
